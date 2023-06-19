@@ -1,6 +1,6 @@
-site_name: DeepRacer SIG Website
+site_name: DeepRacer SIG
 theme:
-  favicon: docs/img/favicon.ico
+  favicon: img/favicon.png
   name: material
   features:
     - navigation.tabs
@@ -19,7 +19,7 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
       primary: navy
-      accent: red
+      accent: green
     - scheme: slate
       toggle:
         icon: material/toggle-switch

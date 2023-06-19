@@ -2,6 +2,8 @@
 
 ## Reward Graph
 
+A reward graph is a graphical representation of the rewards or penalties associated with different actions that an agent can take in a given environment. The goal of an AI agent is typically to maximize the cumulative reward it receives over time by choosing actions that lead to higher rewards.
+
 ![reward graph](img/ss10.png){align="center" width="60%"}
 
 :green_circle: Average reward

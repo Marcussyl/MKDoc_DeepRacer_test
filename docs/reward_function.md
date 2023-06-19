@@ -123,6 +123,8 @@ The reward function ecourages the vehicle to make moves along the track quickly 
 
 ### Reward table
 
+A reward table is a table that lists the rewards or penalties associated with different state-action pairs in a given environment. It is often used in reinforcement learning, a type of machine learning where an agent learns to take actions in an environment in order to maximize a cumulative reward signal.
+
 | STATUS                    | REWARDS                          |
 | :---------:               | :------------------------------: |
 | `Normal`                  | -2 |
