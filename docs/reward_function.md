@@ -111,7 +111,7 @@ The reward function ecourages the vehicle to make moves along the track quickly 
 
 ## Define your own reward function (Mario Kart as Example)
 
-![mario kart](img/ss8.png){align="center" width="50%"}
+![mario kart](img/ss8.png){align="center" width="70%"}
 
 ### Before coding your own function, find out
 
@@ -134,4 +134,4 @@ A reward table is a table that lists the rewards or penalties associated with di
 
 ### Overview
 
-![mario kart flow chart](img/ss9.png){align="center" width="70%"}
+![mario kart flow chart](img/ss9.png){align="center"}
