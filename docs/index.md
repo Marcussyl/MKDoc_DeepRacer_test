@@ -1,6 +1,6 @@
 # Welcome
 
-![deepracer](img/ss14.jpeg){align="center" width="80%"}
+![deepracer](img/ss14.jpeg){align="center"}
 
 ## What is AWS DeepRacer?
 
