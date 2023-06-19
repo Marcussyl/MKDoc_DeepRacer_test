@@ -111,7 +111,7 @@ The reward function ecourages the vehicle to make moves along the track quickly 
 
 ## Define your own reward function (Mario Kart as Example)
 
-![mario kart](img/ss8.png){align="center" width="70%"}
+![mario kart](img/ss8.png){align="center"}
 
 ### Before coding your own function, find out
 
