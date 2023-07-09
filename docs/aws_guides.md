@@ -25,3 +25,9 @@ You can create a community race via [this](https://us-east-1.console.aws.amazon.
 ## Fine Tune the Hyperparameters
 
 ## Multi User Mode
+
+Multi-user mode account setup provides an exciting way for organizations to sponsor multiple AWS DeepRacer participants under one AWS account. Sponsored participants do not incur any of their own expenses; instead, their training hours and storage costs are billed to the sponsoring AWS account. With a multi-user mode account setup, AWS DeepRacer event organizers can set budgets and monitor and control spending by updating default quotas on training hours and models for individual participants, groups, or across all participants.
+
+Multi-user mode is particularly useful for large events with multiple participants who don't have individual AWS accounts. Instead of creating and managing accounts for each participant in an event, an AWS DeepRacer administrator can host all of their sponsored participants through a single AWS account.
+
+In multi-user mode, sponsored participants can compete and train without incurring any of their own costs. Their training and storage charges are billed to the sponsoring multi-user AWS account billing. If an administrator stops sponsoring participants' usage, participants keep their racer aliases and profiles.
