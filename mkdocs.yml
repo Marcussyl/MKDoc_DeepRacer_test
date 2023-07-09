@@ -1,6 +1,6 @@
 site_name: DeepRacer SIG
 theme:
-  favicon: img/favicon.png
+  favicon: docs/img/favicon.png
   name: material
   features:
     - navigation.tabs
