@@ -27,8 +27,9 @@ theme:
       primary: navy
       accent: lime
 
-#  plugins:
-#   - social
+ plugins:
+  - social
+  - table-reader
 
 extra:
   social:
