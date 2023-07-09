@@ -1,5 +1,7 @@
 # Creating Community Race
 
+You can create a community race via [this](https://us-east-1.console.aws.amazon.com/deepracer/home?region=us-east-1#communityRaces) link
+
 ## Community Race vs Student Community Race
 
 | Community race      | Student community race                          |
