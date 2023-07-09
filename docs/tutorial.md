@@ -138,7 +138,6 @@ A reward table is a table that lists the rewards or penalties associated with di
 
 ![mario kart flow chart](img/ss9.png){align="center"}
 
-
 ## Model Evaluation
 
 ### Reward Graph
