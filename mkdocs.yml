@@ -1,4 +1,7 @@
 site_name: AI-Race
+site_url: https://marcussyl.github.io/deepracer/
+nav:
+  - Home: index.md
 theme:
   favicon: img/favicon.png
   name: material
