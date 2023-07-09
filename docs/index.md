@@ -15,7 +15,6 @@ graph LR
   A[New Model] --> B[Configuration] --> C[Train] --> D[Evaluate] --> E[Deploy to car];
 ```
 
-
 ## YouTube Videos
 
 - <https://www.youtube.com/watch?v=VwpFS1guqTg&pp=ygUJZGVlcHJhY2Vy>
