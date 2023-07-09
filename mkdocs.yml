@@ -30,6 +30,7 @@ theme:
  plugins:
   - social
   - table-reader
+  - glightbox
 
 # extra:
 #   social:
