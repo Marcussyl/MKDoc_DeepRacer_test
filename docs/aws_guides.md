@@ -14,7 +14,7 @@
 
 |       | LIVE                          | Classic
 
-| ----------- | ------------------------------------ | ----------|
+| ----------- | ------------------------------------ |
 | Synchronicity       | real-time racing event, players taking turns to compete  | asynchronous event |
 | Public/ Private?       | private or public | private (invitations required) |
 | Model submission   | last model submitted will be counted | unlimited model submission |
