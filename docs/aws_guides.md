@@ -14,9 +14,9 @@ You can create a community race via [this](https://us-east-1.console.aws.amazon.
 
 ## Live Race vs Classic Race
 
-|   Test    | LIVE                          | Classic
+|   Test    | LIVE                          | Classic |
 
-| ----------- | ------------------------------------ |
+| ----------- | ------------------------------------ | -------------------------------- |
 | Synchronicity       | real-time racing event, players taking turns to compete  | asynchronous event |
 | Public/ Private?       | private or public | private (invitations required) |
 | Model submission   | last model submitted will be counted | unlimited model submission |
