@@ -4,7 +4,7 @@
 
 Date and time:  
 
-Value: Innovation Wing [How to get to Innovation Wing](https://innowings.engg.hku.hk/innowing1/contact/)
+Value: Innovation Wing [Where is Innovation Wing?](https://innowings.engg.hku.hk/innowing1/contact/)
 
 ## Rules
 
