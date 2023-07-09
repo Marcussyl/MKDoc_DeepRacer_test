@@ -31,14 +31,14 @@ theme:
   - social
   - table-reader
 
-extra:
-  social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/
-    - icon: fontawesome/brands/twitter
-      link: https://github.com/
-    - icon: fontawesome/brands/linkedin
-      link: https://github.com/
+# extra:
+#   social:
+#     - icon: fontawesome/brands/github-alt
+#       link: https://github.com/
+#     - icon: fontawesome/brands/twitter
+#       link: https://github.com/
+#     - icon: fontawesome/brands/linkedin
+#       link: https://github.com/
 
 markdown_extensions:
   - pymdownx.superfences:
