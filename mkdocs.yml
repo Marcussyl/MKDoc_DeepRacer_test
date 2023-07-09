@@ -2,10 +2,11 @@ site_name: AI-Race
 site_url: https://marcussyl.github.io/deepracer/
 nav:
   - Home: index.md
+  - Reinforcement Learning: reinforcement_learning_intro.md
   - Events: event.md
-  - RL: reinforcement_learning_intro.md
   - Gallery: gallery.md
   - Tutorials: tutorial.md
+  - Rules and Guidelines: rules and guidelines.md
 theme:
   favicon: img/favicon.png
   name: material
@@ -32,12 +33,12 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
       primary: navy
-      accent: lime
+      accent: navy
 
-#  plugins:
-#   - social
-#   - table-reader
-#   - glightbox
+plugins:
+  # - social
+  # - table-reader
+  - glightbox
 
 # extra:
 #   social:
