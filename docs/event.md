@@ -1,31 +1,35 @@
-# Upcomming Events
+# What's on?
 
-## Briefing Session
+## Briefing Session :material-presentation-play:
 
-Date and time:  
+:date: Date and time:  
 
-Venue: Innovation Wing [Where is Innovation Wing?](https://innowings.engg.hku.hk/innowing1/contact/)
+:map: Venue: Innovation Wing [Where is Innovation Wing?](https://innowings.engg.hku.hk/innowing1/contact/)
 
-Material: [Presentation Slides](https://docs.google.com/presentation/d/1Th2zJY-YMzIVBebSpcVIZfkUuJM2c79GChxB17jtdPU/edit#slide=id.p)
+:file_folder: Material: [Presentation Slides](https://docs.google.com/presentation/d/1Th2zJY-YMzIVBebSpcVIZfkUuJM2c79GChxB17jtdPU/edit#slide=id.p)
 
-## On-site Race
+------------------------------------------------------------------------------------------------
 
-Date and time:
+## On-site Race :material-medal-outline:
 
-Venue:
+:date: Date and time:
 
-Track:
+:map: Venue:
 
-Time trail / Object avoidance:
+:railway_track: Track:
 
-## Virtual Race
+:clock1: Time trail / Object avoidance:
 
-Date and time:
+------------------------------------------------------------------------------------------------
 
-Venue:
+## Virtual Race :material-medal-outline:
 
-Track:
+:date: Date and time:
 
-Time trail / Object avoidance:
+:map: Venue:
 
-Link:
+:railway_track: Track:
+
+:clock1: Time trail / Object avoidance:
+
+:link: Link:
