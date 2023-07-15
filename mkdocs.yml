@@ -3,14 +3,15 @@ site_url: https://marcussyl.github.io/deepracer/
 nav:
   - Home: index.md
   - Reinforcement Learning: reinforcement_learning_intro.md
-  - Events: event.md
+  - Events: events.md
   - Gallery: gallery.md
   - Tutorials: tutorial.md
-  - Rules and Guidelines: rules and guidelines.md
+  - Rules and Guidelines: rules_and_guidelines.md
 theme:
   favicon: img/favicon.png
   name: material
   features:
+    - navigation.path
     - navigation.tabs
     - navigation.sections
     - toc.integrate

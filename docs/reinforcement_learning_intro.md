@@ -1,4 +1,4 @@
-# Reinforcement Learning
+# **Reinforcement Learning**
 
 ## What is Reinforcement Learning?
 

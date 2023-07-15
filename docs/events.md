@@ -1,4 +1,4 @@
-# What's on?
+# **What's on?**
 
 ## Briefing Session :material-presentation-play:
 
@@ -16,9 +16,7 @@
 
 :map: Venue:
 
-:railway_track: Track:
-
-:clock1: Time trail / Object avoidance:
+:clock1: Time trail / Object avoidance: Time trail
 
 ------------------------------------------------------------------------------------------------
 
@@ -26,10 +24,8 @@
 
 :date: Date and time:
 
-:map: Venue:
-
 :railway_track: Track:
 
-:clock1: Time trail / Object avoidance:
+:clock1: Time trail / Object avoidance: Time trail
 
 :link: Link:

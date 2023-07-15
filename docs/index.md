@@ -1,4 +1,4 @@
-# Welcome
+# **Welcome**
 
 ![deepracer](img/ss14.jpeg){align="center"}
 
@@ -15,10 +15,17 @@ graph LR
   A[New Model] --> B[Configuration] --> C[Train] --> D[Evaluate] --> E[Deploy to car];
 ```
 
-## YouTube Videos
+## YouTube Videos :material-youtube:
 
 - <https://www.youtube.com/watch?v=VwpFS1guqTg&pp=ygUJZGVlcHJhY2Vy>
 
 - <https://www.youtube.com/watch?v=vCt-F2HscOU&pp=ygUJZGVlcHJhY2Vy>
 
 - <https://www.youtube.com/watch?v=DAx42E9_Cug&pp=ygUJZGVlcHJhY2Vy>
+
+{% extends "base.html" %}
+
+{% block announce %}
+  <!-- Add announcement here, including arbitrary HTML -->
+  hello testing
+{% endblock %}

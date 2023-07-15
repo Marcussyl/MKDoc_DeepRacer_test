@@ -1,4 +1,4 @@
-# Basic Concepts
+# **Basic Concepts**
 
 ## Reward Function
 
@@ -10,23 +10,23 @@ The reward function is python code that decribe immediate feedback in the form o
 
 The reward function ecourages the vehicle to make moves along the track quickly to reach its destination! :fire:
 
-### Example (PAC MAN :simple-ghostery:)
+### Example
 
-![pac man](img/ss7.png){align="right" width="400"}
+!!! example "PAC MAN :simple-ghostery:"
 
-**Goal**: collect all the pallets + avoid ghosts
+    ![pac man](img/ss7.png){align="right" width="400"}
 
-**Rewards**:
+    **Goal**: collect all the pallets + avoid ghosts
 
-:thumbsup: Positive for pallets collected
+    **Rewards**:
 
-:thumbsdown: Negative for each time unit in contact with a ghost
+    :thumbsup: Positive for pallets collected
+
+    :thumbsdown: Negative for each time unit in contact with a ghost
 
 ### Three basic reward functions
 
-#### Follow Centerline
-
-??? node
+??? node "Follow Centerline"
 
     ```python linenums="1"
         def reward_function(params):
@@ -56,9 +56,7 @@ The reward function ecourages the vehicle to make moves along the track quickly 
         return float(reward)
     ```
 
-#### Stay within Borders
-
-??? node
+??? node "Stay within Borders"
 
     ```python linenums="1"
         def reward_function(params):
@@ -83,9 +81,7 @@ The reward function ecourages the vehicle to make moves along the track quickly 
         return float(reward)
     ```
 
-#### Prevent zig-zag
-
-??? node
+??? node "Prevent zig-zag"
 
     ```python linenums="1"
         def reward_function(params):
@@ -117,9 +113,9 @@ The reward function ecourages the vehicle to make moves along the track quickly 
         return float(reward)
     ```
 
-### Define your own reward function (Mario Kart)
+### Define your own reward function (Mario Kart :material-car-side:)
 
-![mario kart](img/ss8.png){align="center"}
+<!-- ![mario kart](img/ss8.png){align="center"} -->
 
 #### Before coding your own function, find out
 
@@ -143,6 +139,8 @@ A reward table is a table that lists the rewards or penalties associated with di
 #### Overview
 
 ![mario kart flow chart](img/ss9.png){align="center"}
+
+------------------------------------------------
 
 ## Model Evaluation
 
@@ -177,3 +175,11 @@ Solution:
 - Simplify your reward function
 - Train with more tracks
 - Reduce training time
+
+## Recommended readings :book:
+
+:link: [Reward function](https://medium.com/mlearning-ai/characteristics-of-rewards-in-reinforcement-learning-f5722079aef5)
+
+:link: [Reinforcement Learning](https://www.geeksforgeeks.org/what-is-reinforcement-learning/)
+
+:link: [Machine Learning](https://www.techtarget.com/searchenterpriseai/definition/machine-learning-ML)
