@@ -4,9 +4,9 @@
 
 ## What is AWS DeepRacer?
 
-AWS DeepRacer is the fastest way to get rolling with reinforcement learning (RL), literally, with a fully autonomous 1/18th scale race car driven by reinforcement learning, 3D racing simulator, and a global racing league. Developers can train, evaluate, and tune RL models in the online simulator, deploy their models onto AWS DeepRacer for a real-world autonomous experience and compete in the AWS DeepRacer League for a chance to win the AWS DeepRacer Championship Cup :trophy:
+AWS DeepRacer is the fastest way to get rolling with reinforcement learning (RL), featuring a fully autonomous, reinforcement learning-powered 1/18th scale race car, a 3D racing simulator, and an international racing league. Developers can participate in the AWS DeepRacer League for the chance to win the AWS DeepRacer Championship Cup, deploy their models onto the AWS DeepRacer for a real-world autonomous experience, and train, analyse, and tune RL models in the online simulator.:trophy:
 
-[Get to Know More about AWS DeepRacer](https://aws.amazon.com/deepracer/?nc=sn&loc=1){ .md-button .md-button--primary }
+[:material-cursor-default-click: Click to Know More about AWS DeepRacer](https://aws.amazon.com/deepracer/?nc=sn&loc=1){ .md-button }
 
 ## DeepRacer Workflow
 
@@ -22,10 +22,3 @@ graph LR
 - <https://www.youtube.com/watch?v=vCt-F2HscOU&pp=ygUJZGVlcHJhY2Vy>
 
 - <https://www.youtube.com/watch?v=DAx42E9_Cug&pp=ygUJZGVlcHJhY2Vy>
-
-{% extends "base.html" %}
-
-{% block announce %}
-  <!-- Add announcement here, including arbitrary HTML -->
-  hello testing
-{% endblock %}

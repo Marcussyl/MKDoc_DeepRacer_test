@@ -2,11 +2,11 @@
 
 ## Reward Function
 
-### What is reward function?
+### :material-head-question: What is reward function?
 
 The reward function is python code that decribe immediate feedback in the form of reward and penalty to move from a given position on the track to a new position.
 
-### What's the purpose of reward function?
+### :material-head-question: What's the purpose of reward function?
 
 The reward function ecourages the vehicle to make moves along the track quickly to reach its destination! :fire:
 
@@ -117,7 +117,9 @@ The reward function ecourages the vehicle to make moves along the track quickly 
 
 <!-- ![mario kart](img/ss8.png){align="center"} -->
 
-#### Before coding your own function, find out
+#### Before coding your own function
+
+Find out:
 
 1. What status information do we have? e.g. Position of the car (shown in minimap)
 
@@ -148,33 +150,37 @@ A reward table is a table that lists the rewards or penalties associated with di
 
 A reward graph is a graphical representation of the rewards or penalties associated with different actions that an agent can take in a given environment. The goal of an AI agent is typically to maximize the cumulative reward it receives over time by choosing actions that lead to higher rewards.
 
-![reward graph](img/ss10.png){align="center" width="60%"}
+??? tip "Expand to see the graph"
 
-:green_circle: Average reward
+    ![reward graph](img/ss10.png){align="center" width="60%"}
 
-:large_blue_diamond: Average percentage completion (training)
+    :green_circle: Average reward
 
-:red_square: Average percentage completion (evaluating)
+    :large_blue_diamond: Average percentage completion (training)
+
+    :red_square: Average percentage completion (evaluating)
 
 ### The Model is not Improving
 
-![reward graph not improving](img/ss11.png){align="center" width="60%"}
+:material-lightbulb-on: **Solution:** Tune hyperparmeters e.g. increase epochs
 
-Solution:
+??? tip "Expand to see the graph"
 
-Tune hyperparmeters e.g. increase epochs
+    ![reward graph not improving](img/ss11.png){align="center" width="60%"}
 
 ### The Model is Overfitting
 
 Overfitting refers to a situation where a machine learning model is trained too well on a particular dataset, to the point that it starts to memorize the training data instead of learning the underlying patterns and relationships in the data. When a model overfits, it performs well on the training data but poorly on new, unseen data.
 
-![reward graph not improving](img/ss11.png){align="center" width="60%"}
-
-Solution:
+:material-lightbulb-on: **Solution:**
 
 - Simplify your reward function
 - Train with more tracks
 - Reduce training time
+
+??? tip "Expand to see the graph"
+
+    ![reward graph not improving](img/ss11.png){align="center" width="60%"}
 
 ## Recommended readings :book:
 
