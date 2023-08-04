@@ -5,7 +5,7 @@ nav:
   - Events: events.md
   - Reinforcement Learning: reinforcement_learning_intro.md
   - Tutorials: tutorial.md
-  - Gallery: gallery.md
+  # - Gallery: gallery.md
   # - Rules and Guidelines: rules_and_guidelines.md
 theme:
   favicon: img/favicon.png
